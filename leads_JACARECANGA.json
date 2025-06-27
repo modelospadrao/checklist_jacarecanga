@@ -1,7 +1,5 @@
 [
-  "OUTRO LEAD",
   "DFJ-PK-01B",
-  "DFM-TC-01B",
   "DFJ-EP-01B",
   "DFJ-EP-02B",
   "DFJ-LC-01B",
@@ -49,5 +47,7 @@
   "DFJ-SG-02D",
   "DFJ-SG-03D",
   "DFJ-SG-04D",
-  "DFJ-SG-05D"
+  "DFJ-SG-05D",
+  "DFM-TC-01B",
+  "OUTRO LEAD (Inserir no Forms apenas)"
 ]
